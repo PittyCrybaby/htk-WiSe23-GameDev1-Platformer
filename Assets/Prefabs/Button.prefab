@@ -65,7 +65,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: 'Quit
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 356fc7915bb782a419df4f2d2f9f896c, type: 2}
   m_sharedMaterial: {fileID: 7192642727092041986, guid: 356fc7915bb782a419df4f2d2f9f896c, type: 2}
